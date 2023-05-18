@@ -24,7 +24,7 @@ class Square extends Rectangle{
 		console.log("Square height:",this._height);
 }
 getPerimeter(){
-		return 4*this._width;
+		return 4*side;
 }
 
 }
